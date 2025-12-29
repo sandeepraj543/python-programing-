@@ -1,4 +1,4 @@
-# assignment - 2 question is take diameter as input from user and calculate the area of circle and print it .
+# assignment2- question is take diameter as input from user and calculate the area of circle and print it .
 
 diameter = int(input(" Enter the diameter of circle : "))
 print(" diameter of circle is :", diameter)
