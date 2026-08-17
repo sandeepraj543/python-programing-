@@ -1,0 +1,6 @@
+print(type(language))
+print(language)
+language.add("c")
+print(language)
+language.remove("PYTHON")
+print(language)

@@ -1,0 +1,5 @@
+print("Hello Word :")
+print('hii sandeep')
+print(40+20)
+print(40*10.25)
+print(40.10/20)
