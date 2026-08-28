@@ -1,0 +1,3 @@
+# In Python, there are two main types of modules: built-in modules and user-defined modules.
+# Built-in modules are those that come pre-installed with Python and provide a wide range of functionalities, such as math, os, sys, and datetime. These modules can be imported and used directly in your code without any additional installation. 
+# User-defined modules, on the other hand, are created by users to organize their code into reusable components. These modules can be created by writing Python code in a separate file and then importing that file into other scripts. This allows for better code organization and reusability.
