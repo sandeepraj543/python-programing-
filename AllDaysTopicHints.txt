@@ -1,0 +1,24 @@
+# day 1 : Introduction to python
+# day 2 : Information about some amazing program
+# day 3 : Introduction about module
+# day 4 : Our first python program
+# day 5 : comment, escape sequence and print statement
+# day 6 : variables and datatypes
+# day 7 : exercise 1 - calculator using python
+# day 8 : solution of calculator
+# day 9 : Typecasting in python
+# day10 : Taking user input in python
+# day11 : String
+# day12 : String slicing and operation
+# day13 : string methods
+# day14 : conditional statement
+# day15 : Exercise 2 : Good morning sir according to time
+# day16 : Match case statement in python
+# day17 : FOR Loops in python
+ 
+
+
+
+
+
+

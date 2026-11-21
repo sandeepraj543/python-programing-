@@ -1,4 +1,4 @@
-# out first python program
+# our first python program
 
 print("Hello world!")
 print(5)
